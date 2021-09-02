@@ -40,7 +40,7 @@
     <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/sass.svg" alt="sass" width="30" height="30" />
   </a>
   <a href="https://threejs.org/" target="_blank" title="Threejs">
-    <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/3d.svg" alt="threejs" width="30" height="30" />
+    <img src="https://caioliveira277.github.io/beatMaker/public/assets/images/threejs.svg" alt="threejs" width="30" height="30" />
   </a>
   <a href="https://pt-br.reactjs.org/" target="_blank" title="Reactjs">
     <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/react.svg" alt="react" width="30" height="30" />
