@@ -58,7 +58,7 @@
     <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/docker.svg" alt="docker" width="30" height="30" />
   </a>
   <a href="https://socket.io/" target="_blank" title="SocketIO">
-    <img src="https://caioliveira277.github.io/beatMaker/public/assets/images/socketio.sv" alt="socketio" width="30" height="30" />
+    <img src="https://caioliveira277.github.io/beatMaker/public/assets/images/socketio.svg" alt="socketio" width="30" height="30" />
   </a>
 </div>
 
