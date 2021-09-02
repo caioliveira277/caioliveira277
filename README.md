@@ -6,7 +6,7 @@
 **Sobre mim:**
 - Trabalho na área de desenvolvimento há **dois anos e meio**;
 - Estou cursando **Sistemas para Internet** na FATEC São Roque;
-- Sou de **Sorocaba**, intereior de São Paulo;
+- Sou de **Sorocaba**, interior de São Paulo;
 - Tenho **21 anos**;
 - Gosto de **estudar**;
 - Pratico **ciclismo** 🚲;
@@ -51,8 +51,11 @@
   <a href="https://laravel.com/" target="_blank" title="Laravel">
     <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/laravel.svg" alt="laravel" width="30" height="30" />
   </a>
-   <a href="https://webpack.js.org/" target="_blank" title="Webpack">
+  <a href="https://webpack.js.org/" target="_blank" title="Webpack">
     <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/webpack.svg" alt="webpack" width="30" height="30" />
+  </a>
+  <a href="https://webpack.js.org/" target="_blank" title="Kali Linux">
+    <img src="https://caioliveira277.github.io/beatMaker/public/assets/images/kalilinux.svg" alt="kali linux" width="30" height="30" />
   </a>
 </div>
 
