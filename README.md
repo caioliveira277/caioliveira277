@@ -54,6 +54,9 @@
   <a href="https://webpack.js.org/" target="_blank" title="Webpack">
     <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/webpack.svg" alt="webpack" width="30" height="30" />
   </a>
+  <a href="https://www.docker.com/" target="_blank" title="Docker">
+    <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/docker.svg" alt="docker" width="30" height="30" />
+  </a>
 </div>
 
 <br>
