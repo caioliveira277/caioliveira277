@@ -27,29 +27,32 @@
 
 **Tecnologias favoritas:  ❤**
 <div>
-  <a href="https://www.typescriptlang.org/" target="_blank">
+  <a href="https://www.typescriptlang.org/" target="_blank" title="Typescript">
     <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/typescript.svg" alt="typescript" width="30" height="30" />
   </a>
-  <a href="https://www.javascript.com/" target="_blank">
+  <a href="https://www.javascript.com/" target="_blank" title="Javascript">
     <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/javascript.svg" alt="javascript" width="30" height="30" />
   </a>
-  <a href="https://nodejs.org/en/" target="_blank">
+  <a href="https://nodejs.org/en/" target="_blank" title="Nodejs">
     <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/nodejs.svg" alt="nodejs" width="30" height="30" />
   </a>
-  <a href="https://sass-lang.com/" target="_blank">
+  <a href="https://sass-lang.com/" target="_blank" title="Sass">
     <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/sass.svg" alt="sass" width="30" height="30" />
   </a>
-  <a href="https://threejs.org/" target="_blank">
+  <a href="https://threejs.org/" target="_blank" title="Threejs">
     <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/3d.svg" alt="threejs" width="30" height="30" />
   </a>
-  <a href="https://pt-br.reactjs.org/" target="_blank">
+  <a href="https://pt-br.reactjs.org/" target="_blank" title="Reactjs">
     <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/react.svg" alt="react" width="30" height="30" />
   </a>
-  <a href="https://vuejs.org/" target="_blank">
+  <a href="https://vuejs.org/" target="_blank" title="Vuejs">
     <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/vue.svg" alt="vue" width="30" height="30" />
   </a>
-  <a href="https://laravel.com/" target="_blank">
+  <a href="https://laravel.com/" target="_blank" title="Laravel">
     <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/laravel.svg" alt="laravel" width="30" height="30" />
+  </a>
+   <a href="https://webpack.js.org/" target="_blank" title="Webpack">
+    <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/webpack.svg" alt="webpack" width="30" height="30" />
   </a>
 </div>
 
