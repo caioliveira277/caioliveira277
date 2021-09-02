@@ -57,6 +57,9 @@
   <a href="https://www.docker.com/" target="_blank" title="Docker">
     <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/docker.svg" alt="docker" width="30" height="30" />
   </a>
+  <a href="https://socket.io/" target="_blank" title="SocketIO">
+    <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/socketio.svg" alt="socketio" width="30" height="30" />
+  </a>
 </div>
 
 <br>
