@@ -1,4 +1,4 @@
-# Olá 🤙 <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=caioliveira277.caioliveira277" alt="Visitas">
+# Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21"> <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=caioliveira277.caioliveira277" alt="Visitas">
 
   
 ## Meu nome é Caio e esse é o meu perfil 👨‍💻
