@@ -7,7 +7,7 @@
 - Trabalho na área de desenvolvimento há **dois anos e meio**;
 - Estou cursando **Sistemas para Internet** na **FATEC São Roque**;
 - Sou de **Sorocaba**, interior de São Paulo;
-- Tenho **21 anos**;
+- Tenho **22 anos**;
 - Gosto de **estudar**;
 - Pratico **ciclismo** 🚲;
 - E é isso ai! 🚀
