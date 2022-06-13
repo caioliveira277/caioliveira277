@@ -9,7 +9,6 @@
 - Sou de **São Roque**, interior de São Paulo;
 - Tenho **22 anos**;
 - Gosto de **estudar**;
-- Pratico **ciclismo** 🚲;
 - E é isso ai! 🚀
 <br>
 
