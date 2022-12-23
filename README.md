@@ -66,9 +66,12 @@
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioliveira277&layout=compact&langs_count=16&theme=gotham&border_radius=10&hide_border=true&bg_color=272A34&locale=pt-br"/>
 </div>
 
-**Github Recap: 🎅**
+<br>
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/52549124/209334071-3fbb7b9c-7b7b-490a-adcc-be5bcbe6c0de.gif)
+**Github Recap 2022: 🎅**
+
+![recap](https://user-images.githubusercontent.com/52549124/209334471-dd6d2e01-8377-4314-8601-ecefb294b20e.gif)
+
 
 
 
