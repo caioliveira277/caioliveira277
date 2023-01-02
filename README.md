@@ -8,7 +8,6 @@
 - Estou cursando **Sistemas para Internet** na **FATEC São Roque**;
 - Sou de **São Roque**, interior de São Paulo;
 - Tenho **23 anos**;
-- Gosto de **estudar**;
 - E é isso ai! 🚀
 <br>
 
