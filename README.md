@@ -6,7 +6,7 @@
 **Sobre mim:**
 - Trabalho na área de desenvolvimento há **três anos e meio**;
 - Cursei **Sistemas da informação** na **FATEC São Roque**;
-- Sou de **São Roque**, interior de São Paulo;
+- Sou de **Sorocaba**, interior de São Paulo;
 - Tenho **23 anos**;
 - E é isso ai! 🚀
 <br>
