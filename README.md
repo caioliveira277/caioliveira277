@@ -4,7 +4,7 @@
 ## Meu nome é Caio e esse é o meu perfil 👨‍💻
 
 **Sobre mim:**
-- Trabalho na área de desenvolvimento há **três anos e meio**;
+- Trabalho na área de desenvolvimento desde **2019**;
 - Cursei **Sistemas da informação** na **FATEC São Roque**;
 - Sou de **Sorocaba**, interior de São Paulo;
 - Tenho **23 anos**;
