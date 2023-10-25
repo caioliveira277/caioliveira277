@@ -67,10 +67,4 @@
 
 <br>
 
-**Github Recap 2022: 🎅**
-
-![recap](https://user-images.githubusercontent.com/52549124/209334471-dd6d2e01-8377-4314-8601-ecefb294b20e.gif)
-
-
-
 
