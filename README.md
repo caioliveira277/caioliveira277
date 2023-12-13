@@ -7,7 +7,7 @@
 - Trabalho na área de desenvolvimento desde **2019**;
 - Cursei **Sistemas da informação** na **FATEC São Roque**;
 - Sou de **Sorocaba**, interior de São Paulo;
-- Tenho **23 anos**;
+- Tenho **24 anos**;
 - E é isso ai! 🚀
 <br>
 
