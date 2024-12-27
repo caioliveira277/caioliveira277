@@ -38,7 +38,7 @@
     <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/sass.svg" alt="sass" width="30" height="30" />
   </a>
   <a href="https://threejs.org/" target="_blank" title="Threejs">
-    <img src="https://camo.githubusercontent.com/4ce553a8333c70ce9e923c0b6be63cb855f0910ba364831837b7199750405955/68747470733a2f2f616d616e6461636c65746f2e6769746875622e696f2f696d616765732d666f722d70726f6a656374732f7075626c69632f696d616765732f6769746875622d726561646d652f69636f6e2d74687265656a732e737667" alt="threejs" width="30" height="30" />
+    <img src="https://threejs.org/files/favicon_white.ico" alt="threejs" width="30" height="30" />
   </a>
   <a href="https://pt-br.reactjs.org/" target="_blank" title="Reactjs">
     <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/react.svg" alt="react" width="30" height="30" />
