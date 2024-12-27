@@ -46,6 +46,9 @@
   <a href="https://vuejs.org/" target="_blank" title="Vuejs">
     <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/vue.svg" alt="vue" width="30" height="30" />
   </a>
+  <a href="https://vuejs.org/" target="_blank" title="Nuxt">
+    <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/nuxt.svg" alt="nuxt" width="30" height="30" />
+  </a>
   <a href="https://laravel.com/" target="_blank" title="Laravel">
     <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/laravel.svg" alt="laravel" width="30" height="30" />
   </a>
