@@ -5,8 +5,9 @@
 
 **Sobre mim:**
 - Trabalho na área de desenvolvimento desde **2019**;
-- Cursei **Sistemas da informação** na **FATEC São Roque**;
-- Cursando **Arquitetura de Software** na **PUC Campinas**;
+- Cursei **Técnico em Informatica** na **ETEC Fernando Prestes**;
+- Cursei **Tecnólogo em Sistemas da informação** na **FATEC São Roque**;
+- Cursando **Pós em Arquitetura de Software** na **PUC Campinas**;
 - Sou de **Sorocaba**, interior de São Paulo;
 - Tenho **25 anos**;
 - E é isso ai! 🚀
