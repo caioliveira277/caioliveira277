@@ -9,7 +9,7 @@
 - Cursei **Tecnólogo em Sistemas da informação** na **FATEC São Roque**;
 - Cursando **Pós em Arquitetura de Software** na **PUC Campinas**;
 - Sou de **Sorocaba**, interior de São Paulo;
-- Tenho **25 anos**;
+- Tenho **26 anos**;
 - E é isso ai! 🚀
 <br>
 
